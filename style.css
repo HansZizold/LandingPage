@@ -1,0 +1,64 @@
+body {
+	font-family: 'Montserrat';
+	text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Montserrat-Bold';
+}
+
+.container-fluid {
+	padding: 7% 15%;
+}
+.navbar {
+	padding: 0 0 4.5rem;
+}
+
+.nav-item {
+	padding: 0 18px;
+	list-style: none;
+}
+.nav-link {
+	font-size: 1.2rem;
+	font-family: 'Montserrat-Light';
+}
+#features {
+	position: relative;
+}
+
+.feature-title {
+	font-size: 3rem;
+}
+
+.feature-box {
+	padding: 4.5%;
+}
+
+.icon {
+	color: #ef8172;
+	margin-bottom: 1rem;
+}
+
+.icon:hover {
+	color: #ff4c68;
+}
+
+/* Pricing Section */
+
+#pricing {
+	padding: 50px;
+}
+
+.price-text {
+	font-size: 2rem;
+	line-height: 1.5;
+}
+
+.pricing-column {
+	padding: 3% 2%;
+}
